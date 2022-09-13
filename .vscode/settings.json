@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "*.tcc": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "functional": "c",
+        "streambuf": "c",
+        "fstream": "cpp",
+        "array": "cpp",
+        "stack": "cpp",
+        "cmath": "c",
+        "cstdlib": "c",
+        "vector": "cpp",
+        "deque": "cpp",
+        "initializer_list": "cpp"
+    }
+}
