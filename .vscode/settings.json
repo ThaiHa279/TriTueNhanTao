@@ -12,6 +12,10 @@
         "cstdlib": "c",
         "vector": "cpp",
         "deque": "cpp",
-        "initializer_list": "cpp"
+        "initializer_list": "cpp",
+        "system_error": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c"
     }
 }
